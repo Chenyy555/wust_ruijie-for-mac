@@ -1,5 +1,5 @@
 # wust_ruijie-for-mac
-武汉武汉科技大学Mac os锐捷认证
+武汉科技大学Mac os锐捷认证
 ## 用法
 1、打开mentohust.conf，编辑好账号密码
 2、将mentohust.conf复制到 /etc 目录下
